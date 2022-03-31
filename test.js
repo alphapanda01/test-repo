@@ -1,5 +1,5 @@
-var my_api_key = 'UwU';
-var test = 'UwU';
+var my_api_key = 'API';
+var test = 'API';
 
 // some tesed - edited on github
 // Probably this will work
@@ -11,6 +11,3 @@ var test = 'UwU';
 // fixed typo
 //
 // why why why
-//
-//
-// another test
